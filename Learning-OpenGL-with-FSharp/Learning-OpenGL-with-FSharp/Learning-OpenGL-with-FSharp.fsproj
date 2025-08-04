@@ -5,11 +5,13 @@
         <TargetFramework>net9.0</TargetFramework>
         <RootNamespace>Learning_OpenGL_with_FSharp</RootNamespace>
         <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 
     <ItemGroup>
         <Compile Include="Chapters\Chapter00.fs" />
         <Compile Include="Chapters\Chapter01.fs" />
+        <Compile Include="Chapters\Chapter02.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 

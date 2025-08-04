@@ -7,8 +7,7 @@ open Silk.NET.Windowing
 open Silk.NET.Input
 
 let private onRender (gl: GL) =
-    gl.ClearColor Color.Firebrick
-    gl.Clear (uint32 GLEnum.ColorBufferBit)
+    printf "Rendering frame...\n"
     
 let private onLoad (window: IWindow) =
     // The signature of the KeyDown event handler is IKeyboard -> Key -> int -> unit,
