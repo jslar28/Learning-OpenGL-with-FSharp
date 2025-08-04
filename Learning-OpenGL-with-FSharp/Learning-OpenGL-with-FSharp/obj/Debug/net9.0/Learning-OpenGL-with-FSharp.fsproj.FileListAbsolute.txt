@@ -44,3 +44,5 @@ C:\dev\fsharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\Learning-O
 C:\dev\fsharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\obj\Debug\net9.0\Learning-OpenGL-with-FSharp.pdb
 C:\dev\fsharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\obj\Debug\net9.0\Learning-OpenGL-with-FSharp.genruntimeconfig.cache
 C:\dev\fsharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\obj\Debug\net9.0\ref\Learning-OpenGL-with-FSharp.dll
+C:\dev\fsharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\bin\Debug\net9.0\Silk.NET.Input.Common.dll
+C:\dev\fsharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\Learning-OpenGL-with-FSharp\bin\Debug\net9.0\Silk.NET.Input.Glfw.dll

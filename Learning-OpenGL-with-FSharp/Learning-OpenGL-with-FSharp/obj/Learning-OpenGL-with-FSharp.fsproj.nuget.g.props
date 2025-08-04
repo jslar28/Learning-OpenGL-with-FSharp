@@ -7,7 +7,7 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\jsl28\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.12.2</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.14.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\jsl28\.nuget\packages\" />
@@ -16,6 +16,7 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgSilk_NET_Windowing Condition=" '$(PkgSilk_NET_Windowing)' == '' ">C:\Users\jsl28\.nuget\packages\silk.net.windowing\2.22.0</PkgSilk_NET_Windowing>
     <PkgSilk_NET_OpenGL Condition=" '$(PkgSilk_NET_OpenGL)' == '' ">C:\Users\jsl28\.nuget\packages\silk.net.opengl\2.22.0</PkgSilk_NET_OpenGL>
+    <PkgSilk_NET_Input Condition=" '$(PkgSilk_NET_Input)' == '' ">C:\Users\jsl28\.nuget\packages\silk.net.input\2.22.0</PkgSilk_NET_Input>
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\jsl28\.nuget\packages\fsharp.core\9.0.101</PkgFSharp_Core>
   </PropertyGroup>
 </Project>

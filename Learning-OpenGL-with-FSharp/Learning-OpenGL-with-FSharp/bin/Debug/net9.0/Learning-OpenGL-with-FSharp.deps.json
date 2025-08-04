@@ -9,6 +9,7 @@
       "Learning-OpenGL-with-FSharp/1.0.0": {
         "dependencies": {
           "FSharp.Core": "9.0.101",
+          "Silk.NET.Input": "2.22.0",
           "Silk.NET.OpenGL": "2.22.0",
           "Silk.NET.Windowing": "2.22.0"
         },
@@ -109,6 +110,35 @@
         },
         "runtime": {
           "lib/net5.0/Silk.NET.GLFW.dll": {
+            "assemblyVersion": "2.22.0.0",
+            "fileVersion": "2.22.0.0"
+          }
+        }
+      },
+      "Silk.NET.Input/2.22.0": {
+        "dependencies": {
+          "Silk.NET.Input.Common": "2.22.0",
+          "Silk.NET.Input.Glfw": "2.22.0"
+        }
+      },
+      "Silk.NET.Input.Common/2.22.0": {
+        "dependencies": {
+          "Silk.NET.Windowing.Common": "2.22.0"
+        },
+        "runtime": {
+          "lib/net5.0/Silk.NET.Input.Common.dll": {
+            "assemblyVersion": "2.22.0.0",
+            "fileVersion": "2.22.0.0"
+          }
+        }
+      },
+      "Silk.NET.Input.Glfw/2.22.0": {
+        "dependencies": {
+          "Silk.NET.Input.Common": "2.22.0",
+          "Silk.NET.Windowing.Glfw": "2.22.0"
+        },
+        "runtime": {
+          "lib/net5.0/Silk.NET.Input.Glfw.dll": {
             "assemblyVersion": "2.22.0.0",
             "fileVersion": "2.22.0.0"
           }
@@ -266,6 +296,27 @@
       "sha512": "sha512-I1u6CmwwtD+5OIHditbMBVHRQUHZWhfW3Z38mvydxwkZpAvjs5BCxyen6ecOVpbYD6I0EOjZ42M3IsaZbwiYUg==",
       "path": "silk.net.glfw/2.22.0",
       "hashPath": "silk.net.glfw.2.22.0.nupkg.sha512"
+    },
+    "Silk.NET.Input/2.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1gqbKHrKpBv2Vk983kVpMqXL4Uj36NaUIQ2YbQosFVa3pXJE8UMGiWqKtaeoMqnzItusZ1WYgDHKge37EvNm/w==",
+      "path": "silk.net.input/2.22.0",
+      "hashPath": "silk.net.input.2.22.0.nupkg.sha512"
+    },
+    "Silk.NET.Input.Common/2.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DZy30akJABBmTnn8OICik0TFEuXrkd7YCQvoq+oh50eJzXt8JgEYYa+sJYBib/Phs5WULZg/QR7fM8Gi1G3tXg==",
+      "path": "silk.net.input.common/2.22.0",
+      "hashPath": "silk.net.input.common.2.22.0.nupkg.sha512"
+    },
+    "Silk.NET.Input.Glfw/2.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LZPZT1e/RxnjKfkqlp2Wp8KJFP1Av/ErTCZ00EzZpFR1lhUSBgSmgJwXg6XlWoEJHyeJcsXV688zjoEe6YW0BA==",
+      "path": "silk.net.input.glfw/2.22.0",
+      "hashPath": "silk.net.input.glfw.2.22.0.nupkg.sha512"
     },
     "Silk.NET.Maths/2.22.0": {
       "type": "package",

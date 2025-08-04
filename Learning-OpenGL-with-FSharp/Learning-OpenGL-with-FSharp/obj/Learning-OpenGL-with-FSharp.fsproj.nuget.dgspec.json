@@ -52,6 +52,11 @@
               "version": "[9.0.101, )",
               "generatePathProperty": true
             },
+            "Silk.NET.Input": {
+              "target": "Package",
+              "version": "[2.22.0, )",
+              "generatePathProperty": true
+            },
             "Silk.NET.OpenGL": {
               "target": "Package",
               "version": "[2.22.0, )",

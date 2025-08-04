@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Learning-OpenGL-with-FSharp")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c4829d15a0501dd31a41c43dc6066c97635a140")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+def40d7d863227279e7c2d5da0fe4f2fc70881f1")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Learning-OpenGL-with-FSharp")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Learning-OpenGL-with-FSharp")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
